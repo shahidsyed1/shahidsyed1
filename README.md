@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shahidsyed1
 - 👀 I’m interested in research and technology
-- 🌱 I’m currently learning Power Bi
+- 🌱 I’m currently learning LLM,AI/ML,Gen AI (Prompt Engineering)
 - 💞️ I’m looking to collaborate on data analytics and business intelligence projects
 - 📫 How to reach me at shahid.aussie@yahoo.com
 - 😄 Pronouns: He/Him
